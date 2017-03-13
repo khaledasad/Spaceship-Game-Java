@@ -1,1 +1,2 @@
-# Spaceship-Game-Java
+# SpaceshipGame
+Spaceship Game
